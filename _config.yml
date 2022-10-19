@@ -5,9 +5,3 @@ show_downloads: false
 
 theme: jekyll-theme-minimal
 
-plugins:
-  - jekyll-metrics
-
-jekyll_metrics:
-  template: _includes/metrics.html.liquid
-  yandex_metrica_id: 90846444
