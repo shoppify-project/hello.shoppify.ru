@@ -7,3 +7,6 @@ theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-metrics
+
+jekyll_metrics:
+  yandex_metrica_id: 90846444
