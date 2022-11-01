@@ -2,6 +2,7 @@ title: Shoppify
 logo: /assets/img/logo.png
 description: Панель для мгновенного создания ботов автопродаж
 show_downloads: false
+demo_panel: 'https://shoppify.ru'
 
 theme: jekyll-theme-minimal
 
